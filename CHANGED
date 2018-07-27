@@ -1,3 +1,5 @@
 Icinga2 Speedtest Check last changes:
+2018-07-27
+ - v0.2: renamed repo from speedtest-cli to check-speedtest
 2018-07-26
  - v0.1: first commit
